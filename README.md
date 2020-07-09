@@ -1,4 +1,10 @@
-### Hi there 👋
+### Halo Masyarakat
+
+- 🔭 Working as Cloud Platform Engineer [@Gojek](https://www.gojek.com/)
+- 🌱 Talk about Golang, Cloud Native Tech and Communities -> [slide deck](https://github.com/imrenagi/public-speaking/tree/master/tech-talks)
+- 💬 Host Podcast Ngobrolin Startup & Teknologi on [Spotify](https://open.spotify.com/show/3cA81ivwFR2gDMF570j06X)
+- 👯 Looking to collaborate on [Pair Programming Challenge](https://www.youtube.com/playlist?list=PLJDedZCB3DvB68j2QA4zyqQWWn3ra6igv) on my [youtube channel](https://youtube.com/c/ImreNagi) 
+- 📫 Reach me: twitter [@imrenagi](https://twitter.com/imrenagi)
 
 <!--
 **imrenagi/imrenagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
