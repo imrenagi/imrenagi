@@ -1,18 +1,20 @@
 ### Just Another Daily Co~n~(de)versation
 
 People: "you like coding too much"
+
 Me: "WTH no I dont"
 
 Also another me talking to wife: "We should name our daughter after 1st woman programmer in this world"
+
 Wife: "Lets name her Adalova, after Ada Lovelace"
+
 another me: (without hesitation) "agree"
 
 Also another me asking wife again: "I want to create a tshirt for her, should add coding stuff to it"
+
 Wife: "okay"
 
-Couple days later ....
-
-![Clemira Erina Adalova](./692b77ab-9911-40da-b7a5-774ccd967c1c.JPG)
+What happened couple days later will surprise you. see [here](./692b77ab-9911-40da-b7a5-774ccd967c1c.JPG)
 
 Hell yeah I do~n't~ like coding
 
