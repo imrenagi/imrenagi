@@ -7,10 +7,12 @@
 - 👯 Looking to collaborate on [Pair Programming Challenge](https://www.youtube.com/playlist?list=PLJDedZCB3DvB68j2QA4zyqQWWn3ra6igv) on my [youtube channel](https://youtube.com/c/ImreNagi) 
 - 📫 Reach me: twitter [@imrenagi](https://twitter.com/imrenagi)
 
-![Ngobrolin Startup & Teknologi](./spotify-podcast-badge-wht-grn-165x40.png)
+[SUPPORT ME!](https://imrenagi.com/donate)
 
 <!--
 **imrenagi/imrenagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Ngobrolin Startup & Teknologi](./spotify-podcast-badge-wht-grn-165x40.png)
 
 Here are some ideas to get you started:
 
