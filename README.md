@@ -14,7 +14,7 @@ Also another me asking wife again: "I want to create a tshirt for her, should ad
 
 Wife: "okay"
 
-What happened couple days later will surprise you. see [here](./692b77ab-9911-40da-b7a5-774ccd967c1c.JPG)
+What happened couple days later will surprise you. see [here](https://github.com/imrenagi/imrenagi/blob/master/692b77ab-9911-40da-b7a5-774ccd967c1c.JPG)
 
 Hell yeah I do~n't~ like coding
 
